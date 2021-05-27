@@ -1,4 +1,4 @@
-# poa-network-monitor
+# woa-network-monitor
 
 Tests for network health checks and monitoring.
 <br>
